@@ -85,7 +85,7 @@ def main():
             new_task = input("Enter the new task: ")
             update_task(task_number, new_task)
         elif choice == "5":
-            print("Goodbye!")
+            print("Thank you for using this apllication!")
             break
         else:
             print("Invalid choice. Please enter a number between 1 and 5.")
